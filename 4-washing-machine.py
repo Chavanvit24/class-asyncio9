@@ -7,7 +7,7 @@ from enum import Enum
 import sys
 import time
 import os
-student_id = "6310301008"
+student_id = "6310301024"
 
 
 class MachineStatus(Enum):
